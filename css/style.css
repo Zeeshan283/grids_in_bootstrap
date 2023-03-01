@@ -1,0 +1,41 @@
+.grid-back{
+    background-color: rgb(120, 131, 127);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.col-6-bg1-color{
+    background-color: rgb(47, 74, 211);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 25px;
+}
+.col-6-bg2-color{
+    background-color: rgb(64, 87, 202);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 25px;
+}
+.col-6-bg2-color-h:hover{
+    color: black;
+    cursor: pointer;    
+}
+
+.col-41{
+    background-color: rgb(49, 191, 36);
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+.col-42{
+    background-color: rgb(104, 201, 95);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.col-43{
+    background-color: rgb(160, 188, 148);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
